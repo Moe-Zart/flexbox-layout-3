@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    border: 4px lightgray solid;
+    padding: 24px 24px 0 24px;
+    display: flex;
+    justify-content: space-between;
+}
+.boxwrapper{
+    width:45%;
+}
+.box{
+    border: 4px lightgray solid;
+    margin-bottom: 24px;
+}
+.boxsmall{
+    height: 45px;
+}
+.boxlarge{
+    width:45%;
+}
